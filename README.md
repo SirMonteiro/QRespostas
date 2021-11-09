@@ -9,12 +9,20 @@ Esse script está em beta e pode conter bugs, no decorrer dos testes encontrei a
 ## Como instalar?
 
 1. Instale o suporte a userscripts no navegador pela extensão Violentmonkey
+
    Links para instalação para os principais browsers:
-   Chrome, Brave, Vivaldi, entre outros: https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
+
+   Chrome, Brave, Vivaldi, entre outros: https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag/
+
    Mozilla firefox: https://addons.mozilla.org/firefox/addon/violentmonkey/
-   Microsoft Edge Chromium: https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao
+
+   Microsoft Edge Chromium: https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao/
+
    Para o Opera, use essa extensão: https://addons.opera.com/en/extensions/details/install-chrome-extensions/, e depois baixe o Violentmonkey pela loja do Google Chrome.
+
 2. Após isso clique no link abaixo e então em "confirm install":
+
    https://github.com/SirMonteiro/QRespostas/raw/main/QRespostas%2B%2B.user.js
-![imagem do botão de confirmar instalação do QRespostas++](https://i.imgur.com/VlXyhFH.jpg)
+
+   ![imagem do botão de confirmar instalação do QRespostas++](https://i.imgur.com/VlXyhFH.jpg)
 3. Fecha e abre a plataforma e aproveite!
